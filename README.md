@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+Exploring GitHub for the first time. So far so good. 
